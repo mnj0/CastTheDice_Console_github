@@ -1,0 +1,15 @@
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\bin\Debug\net10.0\Game.exe
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\bin\Debug\net10.0\Game.deps.json
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\bin\Debug\net10.0\Game.runtimeconfig.json
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\bin\Debug\net10.0\Game.dll
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\bin\Debug\net10.0\Game.pdb
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.AssemblyInfoInputs.cache
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.AssemblyInfo.cs
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.sourcelink.json
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.dll
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\refint\Game.dll
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.pdb
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\Game.genruntimeconfig.cache
+C:\Users\minjo\Documents\VisualStudioCode\CastTheDice_Console\Game\obj\Debug\net10.0\ref\Game.dll
